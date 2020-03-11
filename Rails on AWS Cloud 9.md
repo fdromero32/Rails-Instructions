@@ -11,7 +11,7 @@ CONTENTS OF THIS FILE
  ------------
  
  Installing Rails Apps seems to be a hassle for many of us. Whether you are using a PC or if your Mac isn't working, Amazon Web Services' Cloud 9 provides an alternative that is user-friendly and easy to install. 
- There are still some challenges that you need to face in order to successfully run your Rails App, but hopefully, this guide is able to help you!
+ There are still some challenges that you may face in order to successfully run your Rails App, but hopefully, this guide is able to help you!
  
  REQUIREMENTS
  ------------
