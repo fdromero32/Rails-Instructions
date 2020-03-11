@@ -63,11 +63,11 @@ Follow the instructions below and go down them step-by-step:
  
  * SAVE and return to the terminal. 
  
- *Run the $ rails S command again and click the Preview App button. This time, open the preview in a new tab instead of in the IDE. Please see the screenshot provided.
+ * Run the $ rails S command again and click the Preview App button. This time, open the preview in a new tab instead of in the IDE. Please see the screenshot provided.
  
  * You will have the Rails landing page!
  
- *If you want to play around and do the projects we've done in class, add your 'example_model_here/new....' to the end of the very long amazonaws.com link. 
+ * If you want to play around and do the projects we've done in class, add your 'example_model_here/new....' to the end of the very long amazonaws.com link. 
  
  Please let me know if you have any questions!! I'd be more than happy to help! :) 
 
