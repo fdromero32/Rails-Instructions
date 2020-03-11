@@ -5,7 +5,6 @@ CONTENTS OF THIS FILE
  * Requirements
  * Installation
  * Troubleshooting
- * FAQ
  
  
  INTRODUCTION
